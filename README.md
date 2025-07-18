@@ -32,3 +32,6 @@ An Arduino-powered robot that autonomously detects and extinguishes fires and al
 
 ## Conclusion
 A robust firefighting solution for hazardous environments, improving safety through automation and alert systems.
+
+## Note:
+Create a twilio account and get twilio number and load the twilio code into ESP32.
